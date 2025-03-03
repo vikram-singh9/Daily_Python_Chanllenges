@@ -12,7 +12,6 @@ Welcome to my Python Programming Challenges repository! This repository contains
 Printed the following message using Python:  
 `"Hello, World! Welcome to Python Programming. Let's start coding!"`
 
-**🔗 Code:** [Task 1 Code](task1.py)
 
 ---
 
@@ -44,7 +43,6 @@ Created a program that checks whether a number is even or odd using the modulus 
 **Example Output:**  
 
 
-**🔗 Code:** [Task 4 Code](task4.py)
 
 ---
 
