@@ -40,11 +40,6 @@ The user can choose an operation and input two numbers to get the result.
 **🎯 Description:**  
 Created a program that checks whether a number is even or odd using the modulus (`%`) operator.  
 
-**Example Output:**  
-
-
-
----
 
 ## 🛠️ How to Run the Code
 
