@@ -39,15 +39,3 @@ The user can choose an operation and input two numbers to get the result.
 **📆 Date:** 01/03/2025  
 **🎯 Description:**  
 Created a program that checks whether a number is even or odd using the modulus (`%`) operator.  
-
-**Example Output:**  
-
-
-
----
-
-## 🛠️ How to Run the Code
-
-1. Clone this repository to your local machine:  
-   ```bash
-   git clone https://github.com/your-username/python-challenges.git
